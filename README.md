@@ -1,4 +1,4 @@
-Shop App is a modern e-commerce web application built using React.js. It provides users with a seamless shopping experience, including product browsing, cart management, and checkout functionality.
+Quick Cart is a modern e-commerce web application built using React.js. It provides users with a seamless shopping experience, including product browsing, cart management, and checkout functionality.
 
 #Features:
 
